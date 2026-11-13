@@ -1,4 +1,5 @@
 # stylecart-fashion-store
+![StyleCart Homepage](Screenshot_20261113_160830_Chrome.jpg)
 Responsive fashion e-commerce website built using HTML, CSS and JavaScript.
 StyleCart — Fashion E-commerce Website
 
