@@ -6,6 +6,9 @@ StyleCart — Fashion E-commerce Website
 A responsive fashion e-commerce website built using HTML, CSS, and JavaScript.
 
 Live Demo
+## 📸 Website Preview
+
+![StyleCart Homepage](Screenshot_20261113_160830_Chrome.jpg)
 
 https://kavyashreepatil52.github.io/stylecart-fashion-store/
 
